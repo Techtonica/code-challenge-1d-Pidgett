@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "1d-test",
+      "setup": "",
+      "run": "npm run test spec/1d-spec.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
