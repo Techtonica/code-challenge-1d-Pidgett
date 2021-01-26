@@ -17,7 +17,7 @@ function isEqual(a,b){
     console.log(a,"&",b,"are equal.")
   return a + "&" + b + "are equal.";
 } else{
-  console.log(a,"&", b, "are not equal.");
+  console.log(a,"&", b,"are not equal.");
   return a + "&" + b + "are not equal.";
 }
 };
